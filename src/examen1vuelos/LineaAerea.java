@@ -1,5 +1,13 @@
 package examen1vuelos;
 
+/**
+ * Descripción del método o clase.
+ * 
+ * @param parametro1 Descripción del primer parámetro.
+ * @param parametro2 Descripción del segundo parámetro.
+ * @return Descripción del valor de retorno.
+ * @throws ExcepcionTipo Descripción de la excepción lanzada (si corresponde).
+ */
 
 public class LineaAerea implements Comparable<LineaAerea>{
 	private String nombre;
